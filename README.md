@@ -2,8 +2,7 @@
 - 👀 I’m interested in ... all things Tech
 - 🌱 I’m currently learning ... AI/ML
 - 💞️ I’m looking to collaborate on ... AWS Deep Racer
-- 📫 How to reach me ... sparshgarg1377@gmail.com / Whatsapp : 9310224724
-- 😄 Pronouns: ... He/Him
+- 📫 How to reach me ... sparshgarg1377@gmail.com / Whatsapp : 931022472
 
 <!---
 SparshGarg03/SparshGarg03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
